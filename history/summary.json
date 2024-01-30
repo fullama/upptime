@@ -1,23 +1,5 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 63,
-    "timeDay": 63,
-    "timeWeek": 63,
-    "timeMonth": 63,
-    "timeYear": 63,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Spire",
     "url": "https://spire.embl.de",
     "icon": "https://icons.duckduckgo.com/ip3/spire.embl.de.ico",
@@ -28,29 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1272,
-    "timeDay": 1272,
-    "timeWeek": 1272,
-    "timeMonth": 1272,
-    "timeYear": 1272,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Test Broken Site",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
-    "slug": "test-broken-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 1062,
+    "timeDay": 1062,
+    "timeWeek": 1062,
+    "timeMonth": 1062,
+    "timeYear": 1062,
     "dailyMinutesDown": {}
   }
 ]
