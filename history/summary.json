@@ -4,7 +4,7 @@
     "url": "https://spire.embl.de",
     "icon": "https://icons.duckduckgo.com/ip3/spire.embl.de.ico",
     "slug": "spire",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1190,
     "timeYear": 1136,
     "dailyMinutesDown": {
+      "2024-03-19": 0,
       "2024-02-02": 18
     }
   }
