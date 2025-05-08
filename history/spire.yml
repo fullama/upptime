@@ -1,7 +1,7 @@
 url: https://spire.embl.de
-status: up
-code: 200
-responseTime: 1465
-lastUpdated: 2025-05-07T23:19:39.551Z
+status: down
+code: 503
+responseTime: 16238
+lastUpdated: 2025-05-08T21:11:09.999Z
 startTime: 2024-01-30T09:38:16.584Z
 generator: Upptime <https://github.com/upptime/upptime>
