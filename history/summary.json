@@ -6,16 +6,17 @@
     "slug": "spire",
     "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "90.11%",
-    "uptimeWeek": "84.94%",
-    "uptimeMonth": "87.85%",
-    "uptimeYear": "97.32%",
+    "uptimeDay": "81.21%",
+    "uptimeWeek": "84.28%",
+    "uptimeMonth": "87.56%",
+    "uptimeYear": "97.30%",
     "time": 2563,
     "timeDay": 794,
     "timeWeek": 1007,
     "timeMonth": 992,
     "timeYear": 2858,
     "dailyMinutesDown": {
+      "2026-04-28": 128,
       "2026-04-27": 142,
       "2026-04-25": 707,
       "2026-04-24": 197,
@@ -70,7 +71,7 @@
       "2026-02-11": 102,
       "2026-02-09": 45,
       "2026-02-08": 50,
-      "2026-02-07": 70
+      "2026-02-07": 30
     }
   }
 ]
