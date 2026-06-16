@@ -4,19 +4,19 @@
     "url": "https://spire.embl.de",
     "icon": "https://icons.duckduckgo.com/ip3/spire.embl.de.ico",
     "slug": "spire",
-    "status": "down",
-    "uptime": "98.79%",
-    "uptimeDay": "41.16%",
-    "uptimeWeek": "68.11%",
-    "uptimeMonth": "85.57%",
-    "uptimeYear": "97.12%",
-    "time": 2623,
-    "timeDay": 1052,
-    "timeWeek": 989,
-    "timeMonth": 1859,
-    "timeYear": 2763,
+    "status": "up",
+    "uptime": "98.80%",
+    "uptimeDay": "40.22%",
+    "uptimeWeek": "67.23%",
+    "uptimeMonth": "85.35%",
+    "uptimeYear": "97.15%",
+    "time": 2616,
+    "timeDay": 968,
+    "timeWeek": 970,
+    "timeMonth": 1842,
+    "timeYear": 2760,
     "dailyMinutesDown": {
-      "2026-03-06": 612,
+      "2026-03-06": 397,
       "2026-03-07": 699,
       "2026-03-08": 83,
       "2026-03-11": 135,
@@ -67,7 +67,8 @@
       "2026-06-12": 364,
       "2026-06-13": 237,
       "2026-06-14": 334,
-      "2026-06-15": 847
+      "2026-06-15": 847,
+      "2026-06-16": 96
     }
   }
 ]
